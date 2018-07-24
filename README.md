@@ -1,4 +1,5 @@
 # ictprog-lab
+EC - 502
 homework
 
 Group 1
